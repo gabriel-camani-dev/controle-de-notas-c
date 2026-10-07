@@ -1,31 +1,47 @@
 # Controle de Notas em C
 
-Projeto desenvolvido para praticar conceitos de programação estudados durante a disciplina de Algoritmos e Programação na UFPel.
+Projeto desenvolvido durante meus estudos na disciplina de Algoritmos e Programação do curso de Engenharia de Computação da UFPel.
 
 ## Sobre o projeto
 
-O programa tem como objetivo permitir o cadastro de matriculas e suas notas, além de realizar operações como cálculo de médias, busca de alunos e exibição dos resultados da turma.
+O programa simula um sistema simples de controle de notas de alunos.
 
-O projeto está sendo desenvolvido gradualmente conforme avanço nos meus estudos de programação.
+A ideia do projeto foi colocar em prática conteúdos que estou estudando em C, principalmente funções, vetores, matrizes, estruturas de repetição e estruturas condicionais.
 
-## Funcionalidades 
+## Funcionalidades
 
-- Cadastro de alunos e notas
+- Cadastro de matrículas e notas
 - Listagem dos alunos cadastrados
-- Cálculo da média dos alunos
-- Cálculo da média da turma
-- Busca de alunos
-- Exibição da maior e menor nota
+- Cálculo da média individual de cada aluno
+- Cálculo da média geral da turma
+- Busca de aluno por matrícula
+- Exibição da maior e menor média individual
+- Menu interativo pelo terminal
 
 ## Conceitos utilizados
 
-- Linguagem C
-- Estruturas condicionais
-- Laços de repetição
+- Funções
 - Vetores
 - Matrizes
-- Funções
+- Estruturas de repetição (`for` e `do while`)
+- Estruturas condicionais (`if` e `else`)
+- `switch case`
+- Constantes com `#define`
 
-## Status
+## Exemplo
 
-🚧 Projeto em desenvolvimento.
+Ao executar o programa, o usuário encontra o seguinte menu:
+
+    ============================
+         CONTROLE DE NOTAS
+    ============================
+    1 - Cadastrar alunos e notas
+    2 - Listar alunos
+    3 - Calcular media da turma
+    4 - Mostrar maior e menor media
+    5 - Buscar aluno
+    0 - Sair
+
+## Objetivo
+
+Este é um projeto de estudo e está sendo desenvolvido conforme avanço nos conteúdos de programação em C.
