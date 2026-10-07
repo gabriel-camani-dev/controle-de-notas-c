@@ -4,7 +4,7 @@ Projeto desenvolvido para praticar conceitos de programação estudados durante 
 
 ## Sobre o projeto
 
-O programa tem como objetivo permitir o cadastro de alunos e suas notas, além de realizar operações como cálculo de médias, busca de alunos e exibição dos resultados da turma.
+O programa tem como objetivo permitir o cadastro de matriculas e suas notas, além de realizar operações como cálculo de médias, busca de alunos e exibição dos resultados da turma.
 
 O projeto está sendo desenvolvido gradualmente conforme avanço nos meus estudos de programação.
 
