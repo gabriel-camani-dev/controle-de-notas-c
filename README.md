@@ -8,7 +8,7 @@ O programa tem como objetivo permitir o cadastro de matriculas e suas notas, al�
 
 O projeto está sendo desenvolvido gradualmente conforme avanço nos meus estudos de programação.
 
-## Funcionalidades planejadas
+## Funcionalidades 
 
 - Cadastro de alunos e notas
 - Listagem dos alunos cadastrados
